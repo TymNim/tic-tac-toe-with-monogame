@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/timnim/Projects/tictactoe/tictactoe/Content/Fonts/File.spritefont</SourceFile>
+  <SourceTime>2018-09-23T17:56:00-04:00</SourceTime>
+  <DestFile>/Users/timnim/Projects/tictactoe/tictactoe/Content/bin/DesktopGL/Fonts/font.xnb</DestFile>
+  <DestTime>2018-12-02T16:59:41.36061-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-23T17:56:40-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:56:40-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

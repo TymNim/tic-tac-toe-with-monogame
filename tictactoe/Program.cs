@@ -4,10 +4,10 @@ namespace tictactoe.Desktop
 { 
     /// <summary>
     ///
-    /// Assignment 3.
-    /// Game Dev - Dec, 2018 
+    /// Game Dev - Dec, 2018.
     ///
-    /// Tymofii Nimtes 
+    /// Tymofii Nimtes. 
+    ///     @ Conestoga College.
     ///
     /// </summary>
     public static class Program {
